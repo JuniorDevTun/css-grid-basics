@@ -1,0 +1,28 @@
+.grid-container{
+    padding: 1rem;
+    background-color: #f4cbcb;
+}
+
+.grid-item{
+    padding: 1rem;
+    background-color: #f5f5dc;
+}
+
+
+.grid-container{
+    display: grid;
+    grid-gap: 10px;
+    grid-template-areas: 
+                        "a b"
+                        "a c";
+}
+
+.item1{
+    grid-area: a;
+}
+.item2{
+    grid-area: c;
+}
+.item3{
+    grid-area: b;
+}
