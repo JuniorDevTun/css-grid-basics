@@ -3,4 +3,4 @@
 You can check the YouTube playlist 👉 [here](https://www.youtube.com/playlist?list=PLQ458rlhpsUQewvD-N25L2J-xATtqiVd0)
 
 ## Note ❗
-make to check out the branches for different files
+make sure to check out the branches for different files
